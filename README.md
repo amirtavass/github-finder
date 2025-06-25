@@ -1,8 +1,10 @@
 # GitHub Finder
 
 A modern React application for searching and exploring GitHub users and their repositories using the GitHub API.
-
+🏠 Main Interface
+Clean and intuitive search interface with real-time user suggestions
 ![image](https://github.com/user-attachments/assets/061e11ae-d706-4189-b6c6-b70f6aabbb99)
+
 ![image](https://github.com/user-attachments/assets/835abd5e-3b38-4fe1-b03b-6d02360f0389)
 ![image](https://github.com/user-attachments/assets/6caf98c6-6c94-48a6-8b05-12ea6154926e)
 
