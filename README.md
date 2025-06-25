@@ -178,7 +178,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Amir Tavass**
 - GitHub: [@amirtavass](https://github.com/amirtavass)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+-
 
 ## 🙏 Acknowledgments
 
